@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "僕らはそれを愛と呼んだ",
+  "base_artist": "あたらよ",
+  "createdAt": "2025-12-03T09:36:44.735627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕らはそれを愛と呼んだ",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/01_僕らはそれを愛と呼んだ_あたらよ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕らはそれを愛と呼んだ",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_僕らはそれを愛と呼んだ_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕らはそれを愛と呼んだ",
+      "artist": "ATARAYO",
+      "has_synced": true,
+      "path": "select/03_僕らはそれを愛と呼んだ_ATARAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らはそれを愛と呼んだ",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_僕らはそれを愛と呼んだ_あたらよ.txt"
+    }
+  ]
+}
